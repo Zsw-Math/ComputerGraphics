@@ -1,1 +1,1 @@
-计算机图形学课遇到的代码
+计算机图形学课遇到的代码，基于EASY GRAPHIC ENGINE的Cpp代码
